@@ -1,0 +1,4 @@
+guraymax
+1IJjbzlxubNKrvGA
+
+mongodb+srv://guraymax:1IJjbzlxubNKrvGA@maxcluster.xj33v.mongodb.net/?retryWrites=true&w=majority&appName=MaxCluster

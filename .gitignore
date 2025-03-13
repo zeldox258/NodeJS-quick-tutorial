@@ -1,0 +1,11 @@
+# Root and nested node_modules folders
+node_modules/
+L[1-9]/node_modules/
+L1[0-4]/node_modules/
+
+# Environment files inside L1 to L14 directories
+L[1-9]/*.env
+L1[0-4]/*.env
+
+# General environment file (if exists in root)
+.env
